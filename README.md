@@ -1,1 +1,1 @@
-Code explained in https://marian-caikovski.medium.com/how-to-retrieve-all-shadow-roots-of-a-web-page-0f44d917e9a7
+Code explained in https://marian-caikovski.medium.com/converting-styled-svg-markup-to-images-e4e62849c550
