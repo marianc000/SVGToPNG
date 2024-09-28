@@ -1,0 +1,38 @@
+div>svg {
+    width: 128px;
+    aspect-ratio: 1;
+}
+
+.container>* {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1em;
+    outline: 3px solid blue;
+}
+
+text {
+    text-anchor: middle;
+    dominant-baseline: central;
+    font-weight: bold;
+    font-size: 20.8em;
+    font-family: system-ui;
+    fill: crimson;
+    transform: rotate(0deg) translate(0px, -17px) scale(1, 1);
+    transform-origin: 50% 50%;
+}
+
+
+.camera {
+    transform: scale(0.8) translate(25px, 39px);
+    transform-origin: 50% 50%;
+
+    path {
+        fill: midnightblue;
+    }
+
+    circle {
+        stroke: white;
+        fill: aqua;
+        stroke-width: 9px;
+    }
+}
